@@ -1,0 +1,2 @@
+# Application-To-Make-Gas-Filling-Station-Easy-Using-CRM-Developer-
+This Project is Salesforce CRM-based application that digitalizes gas filling station operations by centralizing buyer, supplier, fuel, and station data. It uses custom objects, flows, and Apex triggers to automate tasks, enforce rules, and provide real-time reports and dashboards for efficient, secure, and transparent management.
