@@ -13,8 +13,6 @@ This project is a Salesforce CRM-based application designed to digitalize and st
 ## 🎥 Demo Video
 [▶️ Watch the Demo Video](https://drive.google.com/file/d/17gVSjjO6eDnz5ZiSisEbgxamEBgfAiLp/view?usp=drive_link)
 
-*(Replace the link above with your Google Drive/YouTube/other video URL.)*
-
 ## 📝 Usage
 This application shows how Salesforce CRM can be customized for non-traditional domains like gas station management. By using custom objects, page layouts, flows, and triggers, it reduces manual effort and improves operational transparency. Managers, sales executives, and salespersons can work securely in one system.
 
